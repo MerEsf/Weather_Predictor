@@ -7,7 +7,7 @@ Deseasonalization and linear regression
 ### Statistical tools:
 Autoregression and confidence intervals
 ### Procedure: 
-Detect and remove seasonal trends
-Use autocorrelation to build time-series features
-Build a weather predictor using python
-Evaluate a time-series model's performance
+* Detect and remove seasonal trends <br />
+* Use autocorrelation to build time-series features <br />
+* Build a weather predictor using python <br />
+* Evaluate a time-series model's performance <br />
