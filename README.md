@@ -1,4 +1,6 @@
 # Machine Learning: Time-series Analysis
+## Data:
+https://climatecenter.fsu.edu/products-services/data
 ## Question: 
 Will the high temperature in Fort Lauderdale, Florida be above 85 degrees Fahrenheit three days from now?
 ## Approach:
