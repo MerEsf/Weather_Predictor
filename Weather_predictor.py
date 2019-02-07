@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-import tools
+import tools  # creates a little interactive window
 
 # using "self" to access the instance attributes
 class Predictor(object):
